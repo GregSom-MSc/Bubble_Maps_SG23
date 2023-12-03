@@ -9,11 +9,11 @@ header {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 25px;
 }
 
 nav {
-    background-color: #444;
+    background-color: #0f2caa ;
     padding: 10px;
 }
 
@@ -27,7 +27,7 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #fff;
+    color:  #982525)
     font-weight: bold;
 }
 
